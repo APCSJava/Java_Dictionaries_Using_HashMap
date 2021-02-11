@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Java_Dictionaries_Using_HashMap.iml" filepath="$PROJECT_DIR$/.idea/modules/Java_Dictionaries_Using_HashMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Introductory Demo/LookAndLearn/Java_Dictionaries_Using_HashMap.Introductory_Demo-LookAndLearn.iml" filepath="$PROJECT_DIR$/.idea/modules/Introductory Demo/LookAndLearn/Java_Dictionaries_Using_HashMap.Introductory_Demo-LookAndLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Introductory Demo/LookAndLearn/Java_Dictionaries_Using_HashMap.Introductory_Demo-LookAndLearn.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Introductory Demo/LookAndLearn/Java_Dictionaries_Using_HashMap.Introductory_Demo-LookAndLearn.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Introductory Demo/LookAndLearn/Java_Dictionaries_Using_HashMap.Introductory_Demo-LookAndLearn.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Introductory Demo/LookAndLearn/Java_Dictionaries_Using_HashMap.Introductory_Demo-LookAndLearn.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Java_Dictionaries_Using_HashMap.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Java_Dictionaries_Using_HashMap.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Java_Dictionaries_Using_HashMap.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Java_Dictionaries_Using_HashMap.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Java_Dictionaries_Using_HashMap.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Java_Dictionaries_Using_HashMap.util.test.iml" />
+    </modules>
+  </component>
+</project>
