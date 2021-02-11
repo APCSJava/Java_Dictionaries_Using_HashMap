@@ -1,0 +1,39 @@
+<h1>Dictionaries</h1>
+<p>In the casual sense, a dictionary is any structure that creates a mapping from one object to another. The first
+    object, called a <b>key</b>, is used to locate a second object, the <b>value</b> of interest.</p>
+<h2>Examples</h2>
+<ul>
+    <li>An English language dictionary associates an <b>English word</b> with its <b>definition</b>.
+    </li>
+    <li> A Spanish-English dictionary
+        associates a <b>Spanish word</b> with its <b>English equivalent</b>.
+    </li>
+    <li> A dictionary of
+        postal codes, say used by Google Maps, associates a
+        <b>postcode</b> with a <b>street address</b> so that your favorite fast food restaurant
+        courier knows
+        where to deliver your takeaway.
+    </li>
+</ul><p>Whenever one object is used to locate another object, the
+    idea of a dictionary is in play.</p>
+
+<h2>Dictionaries in Java</h2>
+<p> Java provides dictionary behavior through the Map interface. The class java.util.HashMap is the most frequently used
+    implementation and the one we will demonstrate here.</p>
+
+<p>Debug the <code>main()</code> method in the file Main.java and notice the effect of the following methods drawn
+    from the HashMap API.</p>
+<p>
+    <li><code>HashMap &lt KeyType, ValueType &gt dictName</code><p>Declares a variable of type hashmap with the key type
+    and
+    value type specified.</p>
+</li>
+<li><code>new HashMap &lt &gt ()</code>
+    <p>Calls the constructor. Types can be inferred.</p></li>
+<li><code>put(key, value)</code>
+    <p>If the key is not present, adds it to the map and assigns value.
+    </p>
+    <p> If the key is already present, updates the value associated with the key.
+    </p>
+<li><code>get(key)</code>Returns the value currently associated with the key.</li>
+</ul>

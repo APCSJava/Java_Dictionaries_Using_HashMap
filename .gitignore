@@ -1,0 +1,6 @@
+# Project exclude paths
+/.coursecreator/
+/.gradle/
+/Introductory Demo/LookAndLearn/build/
+/Introductory Demo/LookAndLearn/out/
+/Introductory Demo/LookAndLearn/out/production/classes/
