@@ -15,25 +15,20 @@
         where to deliver your takeaway.
     </li>
 </ul><p>Whenever one object is used to locate another object, the
-    idea of a dictionary is in play.</p>
+    concept of a dictionary is in play.</p>
 
 <h2>Dictionaries in Java</h2>
 <p> Java provides dictionary behavior through the Map interface. The class java.util.HashMap is the most frequently used
     implementation and the one we will demonstrate here.</p>
 
 <p>Debug the <code>main()</code> method in the file Main.java and notice the effect of the following methods drawn
-    from the HashMap API.</p>
-<p>
-    <li><code>HashMap &lt KeyType, ValueType &gt dictName</code><p>Declares a variable of type hashmap with the key type
-    and
-    value type specified.</p>
+    from the HashMap API.
+    <li><a href="psi_element://java.util.HashMap#put">put(key, value)</a>
+<p>If the key is not present, adds it to the map and assigns value.
+</p>
+<p> If the key is already present, updates the value associated with the key.
+</p>
 </li>
-<li><code>new HashMap &lt &gt ()</code>
-    <p>Calls the constructor. Types can be inferred.</p></li>
-<li><code>put(key, value)</code>
-    <p>If the key is not present, adds it to the map and assigns value.
-    </p>
-    <p> If the key is already present, updates the value associated with the key.
-    </p>
-<li><code>get(key)</code>Returns the value currently associated with the key.</li>
-</ul>
+<li><a href="psi_element://java.util.HashMap#get">get(key)</a>
+    <p>Returns the value currently associated with the key.</p></li>
+</p>
